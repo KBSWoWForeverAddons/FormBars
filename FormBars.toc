@@ -1,0 +1,7 @@
+## Interface: 16001, 120000, 120001, 120005, 120007, 120100, 120105, 120107
+## Title: FormBars
+## Notes: Reliable Druid form, Prowl, and powershift paging for Bar 1 (Blizzard & Dominos).
+## IconTexture: Interface\AddOns\FormBars\FormBars.tga
+## OptionalDeps: Dominos
+
+FormBars.lua
